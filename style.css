@@ -1,0 +1,37 @@
+body {
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.contenidor {
+    margin-top: 15%;
+}
+.logo {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.buscador {
+    width: 50%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+}
+.botons {
+    margin-top: 20px;
+}
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
+    border: none;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #e8e8e8;
+}
